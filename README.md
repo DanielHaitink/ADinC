@@ -1,3 +1,3 @@
 # ADNC
 
-This is  new text
+Algorithms and Datastructures in C course assignments given by the RUG
